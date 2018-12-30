@@ -6,4 +6,5 @@ Code runs on Linux Ubuntu.
 
 ### Then run the program:
 ```./maggybox```
-
+### Example image
+![custom musicbox 3d design](https://github.com/litehacker/maggybox/blob/master/custom%20music%20box%20drum%203D%20design%20maker-%20maggybox.png)
